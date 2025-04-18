@@ -9,11 +9,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hungpt2004&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hungpt2004&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=hungpt2004&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=hungpt2004&icon=1&color=4)](https://visitcount.itsvg.in)

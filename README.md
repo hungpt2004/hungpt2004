@@ -23,11 +23,7 @@
 <a href="https://www.linkedin.com/in/phạm-trọng-hùng-a58a51339">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=hungpt2004&icon=1&color=4" alt="Visit Count"/>
-</a>
 </p>
----
 
 ### 💻 テックスタック
 <p align="center">

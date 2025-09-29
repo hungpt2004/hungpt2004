@@ -1,5 +1,12 @@
 
-## 🌐Socials
+<h1 align="center">みんなさんこにちは、 私はPham Trong Hunですす</h1>
+<h3 align="center">ベトナム出身のプロフェッショナルなフルスタックモバイルアプリ開発者</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hungpt2004&label=Profile%20views&color=0e75b6&style=flat" alt="hungpt2004" /> </p>
+
+- 🔭 I’m currently working on **DA NANG**
+
+- 🌱 I’m currently learning **Python, C/C++**
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hung.phamtrong.984/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/phạm-trọng-hùng-a58a51339) 
 [![](https://visitcount.itsvg.in/api?id=hungpt2004&icon=1&color=4)](https://visitcount.itsvg.in)
 
